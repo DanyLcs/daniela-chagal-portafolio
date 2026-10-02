@@ -25,18 +25,23 @@ El diseño está inspirado en una estética artesanal y cinematográfica, utiliz
 * Contacto
 
 🎨 Diseño
+
 El portfolio está inspirado en una estética de diseño editorial minimalista y creativa, utilizando una paleta de tonos lavanda, morado, azul grisáceo y blanco.
 La estructura está enfocada en presentar de manera clara mi perfil profesional, tecnologías, proyectos, proceso de desarrollo, formación y medios de contacto.
 
 📌 Proyectos destacados
+  
   🦦 Otterclothes
+
 E-commerce desarrollado como proyecto de formación, enfocado en la creación de una experiencia de compra web dinámica y responsiva.
 Tecnologías: HTML, CSS, JavaScript, Bootstrap, Git, GitHub, Java.
 
 💻 Otros proyectos
+
 Esta sección se actualizará conforme incorpore nuevos proyectos a mi portfolio.
 
 📚 Formación actual
+
 Actualmente me encuentro en formación como Desarrolladora Java Full Stack Jr., desarrollando conocimientos en desarrollo frontend, backend, bases de datos, APIs y herramientas de desarrollo.
 
 🌎 Idiomas
